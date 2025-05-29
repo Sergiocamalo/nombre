@@ -11,7 +11,7 @@
   <button onclick="jugar()">Jugar</button>
 
   <p id="resultado"></p>
-
+//cojo
  <script>
     let selec = parseInt(prompt('Ingrese un valor entre 1 y 10'));
     let num = parseInt(Math.random() * 10) + 1;
