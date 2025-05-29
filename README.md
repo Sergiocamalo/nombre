@@ -19,6 +19,8 @@
         document.write('Ganó el número que se sorteó es el ' + num);
     else
         document.write('Lo siento se sorteó el valor ' + num + ' y usted eligió ' + selec);
+
+   document.write('Hola soy Raúl');
 </script>
 
 </body>
